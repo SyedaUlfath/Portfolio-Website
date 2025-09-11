@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ Interactive Cybersecurity Portfolio
+# 🛡️ Interactive Portfolio
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -9,7 +9,7 @@
 
 ### ⚡ A modern, animated portfolio showcasing cybersecurity expertise with cutting-edge web technologies
 
-[🔗 **Live Demo**](your-github-pages-link) 
+[🔗 **Live Demo**](https://syedaulfath.github.io/Portfolio-Website/) 
 </div>
 
 ---
